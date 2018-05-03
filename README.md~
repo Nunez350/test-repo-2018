@@ -1,5 +1,8 @@
 # test-repo-2018
 github experimenting for class
+<<<<<<< HEAD
+=======
+
 
 Try issuing a pull request to this repository:
 
@@ -12,4 +15,9 @@ Try issuing a pull request to this repository:
 added to readme, Alec
 Roy Nunez 2
 
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 added to readme, Xu Ren
+
+>>>>>>> upstream/master
