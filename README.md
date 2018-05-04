@@ -1,3 +1,15 @@
-# test-repo-2018
+# Smallest enclosing circle
 
-A readme for a small project that computes minimum radius balls given clicked data points
+A readme for a small project that computes minimum radius balls given clicked data points.
+
+This is a part of a project that computes a central trajectory with different methods.
+
+##Files List
+* demoPercentMinCircle.py
+* functions.py
+* minmaxradiuscircle.py
+
+##How to run file
+1. Open a termial
+2. Go to the directory where you have all three files
+3. type '''python3 demoPercentMinCircle.py''' to see the demonstration.
