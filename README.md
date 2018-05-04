@@ -1,2 +1,3 @@
 # test-repo-2018
-github experimenting for class
+
+A readme for a small project that computes minimum radius balls given clicked data points
