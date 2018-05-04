@@ -1,6 +1,6 @@
 # Smallest enclosing circle
 
-A readme for a small project that computes minimum radius balls given clicked data points.  
+A readme for a small project that computes a minimum radius ball that includes 100% data and a minimum radius ball that includes the specified percent of data using user clicked data points.  
 This is a part of a project that computes a central trajectory with different methods.
 
 ## File List
