@@ -14,6 +14,8 @@ Roy Nunez 2
 
 added to readme, Xu Ren
 
+added to readme, Tianai
+
 
 # Smallest enclosing circle
 
@@ -29,3 +31,4 @@ This is a part of a project that computes a central trajectory with different me
 1. Open a termial.
 2. Go to the directory where you have all three files.
 3. Type '''python3 demoPercentMinCircle.py''' to run the demonstration.>>>>>>> master
+
